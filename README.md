@@ -1,4 +1,4 @@
-# Southampton voyage destinations dashboard
+# Southampton voyage origin dashboard
 
 Static MapLibre dashboard prepared for GitHub Pages.
 
